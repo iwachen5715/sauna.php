@@ -181,49 +181,6 @@
 </head>
 <body>
 
-  <!-- ヘッダー -->
-  <header>
-    <h1>渋谷サウナおすすめ情報</h1>
-  </header>
-
-  <!-- ナビゲーションバー -->
-  <nav class="navbar">
-    <a href="#about">サウナについて</a>
-    <a href="#recommendations">おすすめサウナ</a>
-    <a href="#contact">お問い合わせ</a>
-  </nav>
-
-  <!-- コンテンツエリア -->
-  <div class="container">
-    <h2>ようこそ！</h2>
-    <p>渋谷のおすすめサウナ情報をお届けします。</p>
-
-    <!-- サウナ画像と説明 -->
-    <div class="logoWrap">
-      <h1 class="logo">
-        <a href="https://curationstr.thebase.in">
-          <img class="logoImage" src="https://baseec-img-mng.akamaized.net/images/user/10go/67f5bea.jpeg" alt="THE CURATION MARKET">
-        </a>
-      </h1>
-    </div>
-
-    <p class="headerDescription hidden-xs">渋谷で楽しめる最高のサウナ施設を紹介します。</p>
-
-    <!-- サウナのおすすめリンク -->
-    <a href="shibuya_sauna.html">渋谷サウナの詳細ページへ</a>
-  </div>
-
-  <!-- フッター -->
-  <footer>
-    <nav>
-      <a href="privacy.html">プライバシーポリシー</a> |
-      <a href="terms.html">利用規約</a> |
-      <a href="contact.html">お問い合わせ</a> |
-      <a href="about.html">会社情報</a>
-    </nav>
-    <p>&copy; 2024 渋谷サウナおすすめ情報</p>
-  </footer>
-
   <!-- JavaScript -->
   <script>
     document.addEventListener("DOMContentLoaded", function() {
